@@ -20,6 +20,7 @@ function deleteTown() {
 }
 
 function addTown() {
+	//Functionality by Editor: natrapNiko
 	let townName = $('#townNameForAdd').val();
 	$('#townNameForAdd').val('');
 	$('#towns').append($('<option>').text(townName));
