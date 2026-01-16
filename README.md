@@ -4,4 +4,5 @@
 # Roles
 - natrapNiko takes the role "Editor"
 - takes the role "Shuffler"
-- takes the role "Styler"
+- denniesia takes the role "Styler"
+
