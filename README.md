@@ -3,6 +3,6 @@
 
 # Roles
 - natrapNiko takes the role "Editor"
-- takes the role "Shuffler"
+- Kalin takes the role "Shuffler"
 - denniesia takes the role "Styler"
 
