@@ -34,15 +34,15 @@ function addTown() {
 
 function shuffleTowns() {
 	let towns = $('#towns option').toArray();
-	$('towns').empty();
+	$('#towns').empty();
 
 	shuffleArray(towns);
-	$('$towns').append(towns);
+	$('#towns').append(towns);
 	$('#result').text("Towns shuffled.");
 
 	function shuffleArray(array) {
 		for (var i = array.length - 1; i > 0; i--) {
-			var k = Math.floor(Math.random() * (i + 1));
+			var j = Math.floor(Math.random() * (i + 1));
 			var oldElement = array[i];
 			array[i] = array[j];
 			array[j] = oldElement;
