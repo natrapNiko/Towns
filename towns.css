@@ -14,7 +14,7 @@ article {
 	vertical-align: top;
 }
 article > header {
-	background: #5f5f5f;
+	background: #4a4a4a;
 	color: white;
 	margin: 0px 0px 10px 0px;
 	padding: 4px 6px;
@@ -34,7 +34,7 @@ article > button {
 	border: none;
 	border-radius: 3px;
 	padding: 5px 15px;
-	background: green;
+	background: rgb(39, 157, 39);
 	color: white;
 	font-weight: bold;
 }

@@ -5,4 +5,5 @@
 - natrapNiko takes the role "Editor"
 - Kalin takes the role "Shuffler"
 - denniesia takes the role "Styler"
+- MimsPeevatakes the role "Editor2"
 
